@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="Dice_Roller.app">
+        <State />
+      </entry>
+      <entry key="Kalkulator">
+        <State />
+      </entry>
+      <entry key="Kalkulator_tip.app">
+        <State />
+      </entry>
+      <entry key="Kalkulator_tip.app.androidTest">
+        <State />
+      </entry>
+      <entry key="Kalkulator_tip.app.unitTest">
+        <State />
+      </entry>
+      <entry key="Roll">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
